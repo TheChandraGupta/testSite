@@ -478,3 +478,39 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#testimonials3-3 .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-3 .mbr-author-name {
+  color: #ccc;
+}
+#social-buttons4-4 .mbr-section-title,
+#social-buttons4-4 .btn-social {
+  color: #fff;
+}
+#pricing-table2-5 .mbr-plan-header,
+#pricing-table2-5 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-5 ul,
+#pricing-table2-5 .mbr-plan-title,
+#pricing-table2-5 .mbr-price-value,
+#pricing-table2-5 .mbr-price-figure,
+#pricing-table2-5 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-5 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-5 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#form2-7 .mbr-section-title {
+  color: #fff;
+}
+#form2-7 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#form1-8 .form-control-label {
+  color: #232323;
+}
